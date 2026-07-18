@@ -7,16 +7,16 @@ A compact and reliable **24V DC Temperature Control PCB** designed for industria
 ## Preview
 
 ### PCB
-> Add your PCB image here.
 
-![PCB](<img width="1410" height="917" alt="image" src="https://github.com/user-attachments/assets/e0e27066-15ac-4a39-a594-097722d9d624" />
-)
+
+<img width="1410" height="917" alt="image" src="https://github.com/user-attachments/assets/e0e27066-15ac-4a39-a594-097722d9d624" />
+
 
 ### Schematic
-> Add your schematic here.
 
-![Schematic](<img width="967" height="822" alt="image" src="https://github.com/user-attachments/assets/eac491a9-4971-4a1a-a41b-d5cfbcec5baf" />
-)
+
+<img width="967" height="822" alt="image" src="https://github.com/user-attachments/assets/eac491a9-4971-4a1a-a41b-d5cfbcec5baf" />
+
 
 ---
 

@@ -122,6 +122,11 @@ This PCB can work with:
 ---
 
 
+## Bill of material
+<img width="1642" height="472" alt="image" src="https://github.com/user-attachments/assets/7836d792-e344-4f26-ba7d-3f379e6c120d" />
+
+
+
 
 ## License
 

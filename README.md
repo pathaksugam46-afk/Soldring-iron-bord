@@ -122,11 +122,25 @@ This PCB can work with:
 ---
 
 
-## Bill of material
-<img width="1642" height="472" alt="image" src="https://github.com/user-attachments/assets/7836d792-e344-4f26-ba7d-3f379e6c120d" />
+## Bill of Materials (BOM)
 
-
-
+| Qty | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier | Category |
+|:---:|---------|------------|-----------|-------|-------------------|--------------|---------------|----------|----------|
+| 1 | 100nF | C1 | CAP-TH_L5.1-W3.2-P2.5 | 100nF | SR205C104KAR | Kyocera AVX | C1620866 | LCSC | Multilayer Ceramic Capacitor |
+| 1 | 470uF | C3 | CAP-TH_BD10.0-P5.00 | 470uF | 35YXJ470M10X16 | Rubycon | C88732 | LCSC | Aluminum Electrolytic Capacitor |
+| 1 | 1N4742APF-M | D1 | DO-41_BD2.8-L42.8-P8.00 | — | 1N4742APF-M | STMicroelectronics | C7497920 | LCSC | Zener Diode |
+| 1 | TZ-L2-05YYBR2TDJ30-00 | LED1 | LED-TH_BD5.8-P2.54-L-F | — | TZ-L2-05YYBR2TDJ30-00 | TUOZHAN | C779438 | LCSC | LED Indicator |
+| 3 | WJ126V-5.0-2P | P1, P2, P3 | CONN-TH_WJ126V-5.0 | — | WJ126V-5.0-2P | KANGNEX | C8404 | LCSC | Screw Terminal Connector |
+| 1 | STP80NF70 | Q1 | TO-220AB-3_L10.4-W4.6 | — | STP80NF70 | STMicroelectronics | C361041 | LCSC | N-Channel MOSFET |
+| 3 | 100kΩ | R1, R6, R7 | RES-TH_BD2.7-L6.2-P10.0 | 100kΩ | MF1/4W-100K±1%-OT26 | VO | C2843019 | LCSC | Through-Hole Resistor |
+| 3 | 47kΩ | R2, R10, R11 | RES-TH_BD2.7-L6.2-P10.0 | 47kΩ | MF1/4W-47K±1%-ST52 | VO | C2857423 | LCSC | Through-Hole Resistor |
+| 1 | 1kΩ | R3 | RES-TH_BD2.3-L6.5-P10.0 | 1kΩ | MF1/4W-1KΩ±1%T52 | 华星机电 | C713997 | LCSC | Through-Hole Resistor |
+| 2 | 2.2kΩ | R4, R9 | RES-TH_BD2.3-L6.5-P10.0 | 2.2kΩ | MF1/4W-2.2KΩ±1%T52 | 华星机电 | C714002 | LCSC | Through-Hole Resistor |
+| 1 | 10kΩ | R5 | RES-ADJ-TH_RK1631110 | 10kΩ | RK1631110U10 | ALPS ALPINE | C370978 | LCSC | Potentiometer |
+| 1 | 10kΩ | R8 | RES-ADJ-SMD_RM065-V | 10kΩ | RM065-103(10K) | BOCHEN | C5205021 | LCSC | Potentiometer |
+| 1 | 39Ω | R12 | RES-TH_BD5.0-L15.5-P15 | 39Ω | KNP2W-39Ω±5%T | 华星机电 | C714517 | LCSC | Through-Hole Resistor |
+| 1 | LM358P | U1 | DIP-8_L9.4-W6.4-P2.54 | — | LM358P | HXY MOSFET | C20616360 | LCSC | Operational Amplifier |
+| 1 | 1N5230BPF | U2 | DO-35_BD1.9-L3.9-P7.90 | — | 1N5230BPF | STMicroelectronics | C7497634 | LCSC | Zener Diode |
 
 ## License
 

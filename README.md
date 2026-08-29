@@ -1,6 +1,6 @@
 # 24V DC Temperature Control PCB
 
-A compact and reliable **24V DC Temperature Control PCB** designed for industrial and DIY temperature control applications. The board uses the **LM358 Dual Operational Amplifier** as the main controller to compare the temperature sensor signal with a reference voltage and automatically switch the output when the preset temperature is reached.
+A compact and reliable **24V DC Temperature Control PCB** designed for DIY temperature control. board uses the **LM358 Dual Operational Amplifier** as the main controller to compare the temperature sensor signal with a reference voltage and automatically switch the output when the preset temperature is reached.
 
 ---
 
@@ -22,10 +22,10 @@ A compact and reliable **24V DC Temperature Control PCB** designed for industria
 
 ## Features
 
--  24V DC power supply
+-  24V DC supply
 -  Supports analog temperature sensors
--  LM358-based comparator circuit
--  Adjustable temperature set point
+-  LM358-based 
+-  Adjustable temperature
 ---
 
 ## Specifications
@@ -71,7 +71,7 @@ This PCB can work with:
 
 ---
 
-## 🔌 Pinout
+##Pinout
 
 | Terminal | Description |
 |----------|-------------|
@@ -83,31 +83,8 @@ This PCB can work with:
 ---
 
 
----
 
-## Components Used
 
-- LM358
-- Potentiometer
-- Resistors
-- Capacitors
-- Diodes
-- Terminal Blocks
-- Temperature Sensor Connector
-- MOSFET Driver Components
-
----
-
-## Applications
-
-- Temperature Monitoring
-- Cooling Fan Controller
-- Heater Controller
-- Battery Temperature Protection
-- Greenhouse Automation
-- Industrial Temperature Control
-- Laboratory Equipment
-- DIY Electronics Project
 
 
 
@@ -153,3 +130,4 @@ This project is licensed under the **MIT License**.
 **Sugam Pathak**
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
+MADE FOR HACKCLUB
